@@ -1,6 +1,8 @@
 Welcome to the GitHub Organization **gh-cli-for-education**.
 
 The goal and dream of people here is to develop a set of [gh extensions]() that will assist teachers and students in their daily work with [GitHub]() and [GitHub Education]().
+
+Visit also the [ULL OCW Course GITHUB EDUCATION](https://github.com/ULL-OCW-GITHUB-EDUCATION) organization and the web site for the course [GITHUB EN EL AULA](https://ull-ocw-github-education.github.io/)
  
  ## Related Links
 
