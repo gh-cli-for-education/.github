@@ -14,5 +14,5 @@ Visit also the [ULL OCW Course GITHUB EDUCATION](https://github.com/ULL-OCW-GITH
 ## Teams
 
 * [TFG  Antonella](https://github.com/orgs/gh-cli-for-education/teams/antonella)
-* [TFM Crlos](https://github.com/orgs/gh-cli-for-education/teams/carlos)
 * [TFG Jaime]( https://github.com/orgs/gh-cli-for-education/teams/jaime)
+* [TFM Carlos](https://github.com/orgs/gh-cli-for-education/teams/carlos)
